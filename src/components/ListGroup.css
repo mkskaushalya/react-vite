@@ -1,0 +1,5 @@
+.list-group-item.selected {
+  background-color: magenta;
+  color: white;
+  border-color: magenta;
+}
